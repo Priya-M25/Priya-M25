@@ -20,7 +20,10 @@
 
 ###
 
-<p align="left">- I'm a BTech CSE (AI & DS) fresher with a passion for software development. <br>- I'm proficient in C, Java, Python and MySQL.<br>- I'm looking for an internship or entry-level position where I can learn and grow as a software developer. <br>- I'm excited to use my skills to make a positive impact on the world.</p>
+- I'm a BTech CSE (AI & DS) fresher with a passion for software development.
+- I'm proficient in C, Java, Python and MySQL.
+- I'm looking for an internship or entry-level position where I can learn and grow as a software developer.
+- I'm excited to use my skills to make a positive impact on the world.
 
 ###
 
